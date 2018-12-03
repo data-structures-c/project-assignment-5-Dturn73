@@ -1,0 +1,1 @@
+I noticed that Bubble Sort was the worst performing algorithm with an average runtime on my machine of 24 to 25 seconds.All others were in the low teens or lower. All of the algorithms ran faster when they were handed an array that wasalready mostly sorted. Handing each algorithm an array sorted in the wrong order appear to make each one run faster. 

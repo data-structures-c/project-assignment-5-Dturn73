@@ -1,0 +1,6 @@
+Repeat,Type of Data,Insertion Sort,Selection Sort,Bubble Sort,Merge Sort,Size of Array
+N = 10,random,5.53s,11.55s,26.02s,,n = 100k
+N = 10,"almost sorted, m = 2",3.97s,11.37s,25.13s,,n = 100k
+N = 10,"amost sorted, m = 5",1.87s,11.68s,24.80s,,n = 100k
+N = 10,"amost sorted, m = 10",0.97s,11.07s,24.78s,,n = 100k
+N = 10,sorted in wrong order,5.6s,11.57s,25.93s,,n = 100k
